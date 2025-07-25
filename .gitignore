@@ -172,7 +172,6 @@ fairness_metrics.log
 model_training.log
 
 # Model artifacts
-models/
 *.pkl
 *.joblib
 *.h5
